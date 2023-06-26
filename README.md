@@ -48,11 +48,11 @@ In conclusion, cyber security is a critical aspect of managing and maintaining c
 
 ## Technical Documentation
 
-[Step by step documentation](https://docs.google.com/document/d/12MrB4sbUnF1ZJhR_CbEm4uQhG_kIhjHG_TyX9EsS8Xg/edit)
+[Step by step documentation](https://docs.google.com/document/d/18heoZMTmTu6IUGT8mxNgo8yiquxcHLWA/edit)
 
 ## Presentation
 
-[Software_Documentation/Powerpoint](https://docs.google.com/presentation/d/1wntWs1sbiuQuvBl6AmWzdMmvk5r86Ie3/edit#slide=id.p1)
+[Software_Documentation/Powerpoint](https://docs.google.com/presentation/d/1-wErenO3wq_hQMObIWSImAysgQXbUvkb/edit#slide=id.p1)
 
 ## Cost Analysis
 [New cost and usage](https://files.slack.com/files-pri/T03MH73HJAE-F057DAKSZ5K/img_1824.png) 
@@ -64,11 +64,11 @@ In conclusion, cyber security is a critical aspect of managing and maintaining c
 
 ## Research Questions
 
-[Research](https://docs.google.com/document/d/1rRxdxQ334ZzJSNcDbLFNszmqBZupztU9yLb4TkG1hk8/edit)
+[Research](https://docs.google.com/document/d/162K_dR1k2OqGZy7c3Iww3aysx0N0-azl/edit)
 
 ## Q&A
 
-[Questions](https://docs.google.com/document/d/1nwt-gR4p54zBJiEdsXLcyviLkwR1e_oZvAK6U_h1xE0/edit) 
+[Questions](https://docs.google.com/document/d/1Ro-ZTwU1Tve-CrWI8JzAtLtolIwHU9Ls/edit) 
 
 ## Youtube Resources 
 
