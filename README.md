@@ -1,4 +1,4 @@
-# Cyber Range Team Capstone Project Summary - Sprint 3 (Team B)
+# Team B
 
 ![networked-system-computer](https://user-images.githubusercontent.com/123824782/236960235-a0a9f0f4-db58-421d-a345-ba7868f69a31.jpg)
 
@@ -54,10 +54,6 @@ In conclusion, cyber security is a critical aspect of managing and maintaining c
 
 [Software_Documentation/Powerpoint](https://docs.google.com/presentation/d/1wntWs1sbiuQuvBl6AmWzdMmvk5r86Ie3/edit#slide=id.p1)
 
-
-## Agile Framework
-[Jira ](https://user-images.githubusercontent.com/123824782/236962973-734721cc-a14a-44c3-a1ab-a427ffe5111b.png)
-
 ## Cost Analysis
 [New cost and usage](https://files.slack.com/files-pri/T03MH73HJAE-F057DAKSZ5K/img_1824.png) 
 
@@ -82,23 +78,4 @@ In conclusion, cyber security is a critical aspect of managing and maintaining c
 
 [AWS Kali Linux](https://m.youtube.com/watch?v=QWQ-LQL1owE&feature=youtu.be)
 
-
-## Team Members
-- Alena [@alena](https://www.github.com/)
-- Ameha [@ameha01](https://github.com/orgs/cybertrainingrange/people/ameha01)
-- Anna [@annitamaria](https://github.com/orgs/cybertrainingrange/people/ANNITAMARIA)
-- Diego [@dagiraldo3](https://github.com/orgs/cybertrainingrange/people/dagiraldo3)
-- Ella [@ellaowens](https://github.com/ellaowens)
-- Emilie [@emtechnode](https://github.com/emtechnode)
-- Francisco [@killbay](https://github.com/orgs/cybertrainingrange/people/killbay)
-- Gyan [@gyan](https://www.github.com/octokatherine)
-- Jane [@jjperipheral](https://github.com/jjperipheral)
-- Jared [@jared](https://www.github.com/)
-- Maira [@maira](https://www.github.com/)
-- Nancy [@nancyuddin](https://github.com/nancyuddin)
-- Neiman [@Neiman](https://github.com/orgs/cybertrainingrange/people/bull-in-the-heather)
-- Tyesha [@tyesha](https://www.github.com/)
-- Victor [@vick627](https://github.com/orgs/cybertrainingrange/people/vick627)
-- Volha [@voliatalatynik](https://github.com/orgs/cybertrainingrange/people/voliatalatynik)
-- Mina 
-
+<!-- END -- >
